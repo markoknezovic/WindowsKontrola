@@ -1,0 +1,10 @@
+C:\Users\Korisnik\source\repos\PrimjenaWindovsKontrola\PrimjenaWindovsKontrola\obj\Debug\PrimjenaWindovsKontrola.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\PrimjenaWindovsKontrola\PrimjenaWindovsKontrola\obj\Debug\PrimjenaWindovsKontrola.Form1.resources
+C:\Users\Korisnik\source\repos\PrimjenaWindovsKontrola\PrimjenaWindovsKontrola\obj\Debug\PrimjenaWindovsKontrola.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\PrimjenaWindovsKontrola\PrimjenaWindovsKontrola\obj\Debug\PrimjenaWindovsKontrola.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\PrimjenaWindovsKontrola\PrimjenaWindovsKontrola\obj\Debug\PrimjenaWindovsKontrola.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\PrimjenaWindovsKontrola\PrimjenaWindovsKontrola\bin\Debug\PrimjenaWindovsKontrola.exe.config
+C:\Users\Korisnik\source\repos\PrimjenaWindovsKontrola\PrimjenaWindovsKontrola\bin\Debug\PrimjenaWindovsKontrola.exe
+C:\Users\Korisnik\source\repos\PrimjenaWindovsKontrola\PrimjenaWindovsKontrola\bin\Debug\PrimjenaWindovsKontrola.pdb
+C:\Users\Korisnik\source\repos\PrimjenaWindovsKontrola\PrimjenaWindovsKontrola\obj\Debug\PrimjenaWindovsKontrola.exe
+C:\Users\Korisnik\source\repos\PrimjenaWindovsKontrola\PrimjenaWindovsKontrola\obj\Debug\PrimjenaWindovsKontrola.pdb
